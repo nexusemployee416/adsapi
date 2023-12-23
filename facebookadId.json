@@ -2,7 +2,7 @@
   "adStatus": true,
   "splashTime": 3,
   "AppOpen1Show": true,
-  "InterShow": true,
+  "InterShow": false,
   "NativeBigShow": true,
   "NativeMidShow": true,
   "NativeSmallShow": true,
