@@ -5,7 +5,7 @@
   "InterShow": false,
   "NativeBigShow": true,
   "NativeMidShow": true,
-  "NativeSmallShow": false,
+  "NativeSmallShow": true,
   "BannerShow": true,
   "InterCount": 3,
   "fbNativeBigId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
