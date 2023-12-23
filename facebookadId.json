@@ -7,7 +7,7 @@
   "NativeMidShow": true,
   "NativeSmallShow": false,
   "BannerShow": true,
-  "InterCount": 1,
+  "InterCount": 3,
   "fbNativeBigId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fbNativeMidId": "",
   "fbNativeSmallId": "",
@@ -15,7 +15,7 @@
   "fbInterId": "",
   "checkUpdate": false,
   "versionCode": [
-    1
+    2
   ],
   "PolicyUrl": "",
   "onAppRemoveUrl": ""
