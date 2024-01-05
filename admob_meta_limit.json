@@ -28,7 +28,7 @@
   ],
   "PolicyUrl": "https://www.google.com/",
   "onAppRemoveUrl": "",
-  "checkAdLimit": true,
+  "checkAdLimit": false,
   "interLimitCounter": 5,
   "appOpenLimitCounter": 6,
   "nativeBigLimitCounter": 5,
