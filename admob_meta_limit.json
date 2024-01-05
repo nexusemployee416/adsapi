@@ -1,6 +1,6 @@
 {
   "adStatus": true,
-  "splashTime": 5,
+  "splashTime": 4,
   "adType": 2,
   "AppOpen1Show": true,
   "AppOpen2Show": true,
@@ -27,7 +27,7 @@
     2
   ],
   "PolicyUrl": "https://www.google.com/",
-  "onAppRemoveUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&pcampaignid=merch_published_cluster_promotion_battlestar_collection_new_games&hl=en_IN&gl=US",
+  "onAppRemoveUrl": "",
   "checkAdLimit": false,
   "interLimitCounter": 5,
   "appOpenLimitCounter": 6,
