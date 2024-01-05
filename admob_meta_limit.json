@@ -3,7 +3,7 @@
   "splashTime": 4,
   "adType": 2,
   "AppOpen1Show": true,
-  "AppOpen2Show": true,
+  "AppOpen2Show": false,
   "InterShow": true,
   "NativeBigShow": true,
   "NativeMidShow": true,
