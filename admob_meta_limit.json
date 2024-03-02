@@ -1,9 +1,10 @@
 {
   "adStatus": false,
-     "InterFirstClickShow": true,
-     "affilateIconAdShow": false,
+  "interAdType": 3,
+  "InterFirstClickShow": true,
+  "affilateIconAdShow": false,
   "affilateBottomAdShow": false,
-    "affilateAdUrl": "https://play4093.atmegame.com/",
+  "affilateAdUrl": "https://play4093.atmegame.com/",
   "affilateAdType": "atmegame",
   "splashTime": 4,
   "adType": 1,
