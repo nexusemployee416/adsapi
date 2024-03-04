@@ -28,11 +28,11 @@
   "fbNativeSmallId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fbBannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "fbInterId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "aplNativeBigId": "YOUR_AD_UNIT_ID",
-  "aplNativeMidId": "YOUR_AD_UNIT_ID",
-  "aplNativeSmallId": "YOUR_AD_UNIT_ID",
-  "aplBannerId": "YOUR_AD_UNIT_ID",
-  "aplInterId": "YOUR_AD_UNIT_ID",
+  "aplNativeBigId": "3b2d51fb55e2ced0",
+  "aplNativeMidId": "3b2d51fb55e2ced0",
+  "aplNativeSmallId": "3b2d51fb55e2ced0",
+  "aplBannerId": "b084c8176b725866",
+  "aplInterId": "75d36f10fb2b3f5f",
   "checkUpdate": false,
   "versionCode": [
     2,3
