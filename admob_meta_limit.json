@@ -1,6 +1,10 @@
 {
   "adStatus": true,
   "interAdType": 3,
+  "smallNativeAdType": 1,
+  "mediumNativeAdType": 2,
+  "bigNativeAdType": 4,
+  "bannerAdType": 1,
   "InterFirstClickShow": true,
   "affilateIconAdShow": false,
   "affilateBottomAdShow": false,
